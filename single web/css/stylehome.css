@@ -1,0 +1,29 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    line-height: 160px; 
+}
+
+.nature {
+    background-color: #7fb3d5; 
+}
+
+.food {
+    background-color: #f6ae99; 
+}
+
+.animals {
+    background-color: #95d5b2; 
+}
